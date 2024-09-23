@@ -34,7 +34,9 @@ Before you begin, ensure you have met the following requirements:
    ```
    pip install  beautifulsoup4
    pip install requests
+   ```
    or 
+   ```
    pip install -r requirements.txt
    ```
 
